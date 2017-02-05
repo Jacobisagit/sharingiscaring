@@ -9,7 +9,7 @@ My Target Auidence?
 
 The concept is aimed at all ages as a single pound can purchase two hundred grams of seeds, so people can donate pennies and still make a huge contribution that will only grow and become an investment for the chosen village allowing them to develop and grow their own economy. 
 
-![HempCrete] (https://www.youtube.com/watch?v=g4kKxY7KNyw)
+[HempCrete] (https://www.youtube.com/watch?v=g4kKxY7KNyw)
 
 Reaction?
 
