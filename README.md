@@ -9,6 +9,8 @@ My Target Auidence?
 
 The concept is aimed at all ages as a single pound can purchase two hundred grams of seeds, so people can donate pennies and still make a huge contribution that will only grow and become an investment for the chosen village allowing them to develop and grow their own economy. 
 
+![charities](Screen Shot 2017-02-05 at 23.17.04)
+
 Reaction?
 
 Ideally I would like my audience to be shocked at the number of cases of corruption in charities and the huge amount the industry is worth, while a vast amount of the donations actually just go to paying overheads and large pay checks. As well as this, simultaneously I am trying to educate my audience on the benefits of hemp seeds as an alternative to your conventional donation.
@@ -34,6 +36,9 @@ The story my page tells is one of an outdated broken donations system we current
 
 Wireframe idea's?
 For my frames I have tried to go with a really simple basic layout. The idea is to have images of each town that you can donate to, and when you hover over the image it will slide up and tell you how many plants have been grown and information on the village and what the people can use it for. Aswell as a donate button which will allow you to purchase seeds from 1p onwards. Inbetween the villages I thought I could have facts and information fading in and out which will help the user absorb the vital facts and information on the topic.
+
+![wire frame] (https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1nnj51jn5rorm#attid%253Datt_15a1066a439abe38_0.1)
+
 
 
 
