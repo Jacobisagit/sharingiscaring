@@ -45,7 +45,7 @@ The story my page tells is one of an outdated broken donations system we current
 Wireframe idea's?
 For my frames I have tried to go with a really simple basic layout. The idea is to have images of each town that you can donate to, and when you hover over the image it will slide up and tell you how many plants have been grown and information on the village and what the people can use it for. Aswell as a donate button which will allow you to purchase seeds from 1p onwards. Inbetween the villages I thought I could have facts and information fading in and out which will help the user absorb the vital facts and information on the topic.
 
-[wire frame] (https://wireframe.cc/pro/edit/64561)
+![wire frame] (https://github.com/Jacobisagit/sharingiscaring/blob/gh-pages/IMG_20170205_221937468.jpg)
 
 
 
