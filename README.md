@@ -47,5 +47,5 @@ For my frames I have tried to go with a really simple basic layout. The idea is 
 
 ![wire frame] (https://github.com/Jacobisagit/sharingiscaring/blob/gh-pages/IMG_20170205_221937468.jpg)
 
-
+![wire fram 1] (https://github.com/Jacobisagit/sharingiscaring/blob/gh-pages/Homepage.png)
 
