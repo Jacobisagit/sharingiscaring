@@ -3,7 +3,7 @@
 ### The Cause? 
 
 My chosen cause is to improve the way we donate and give to charities. The idea is to educate people on how their money is being used in the charity industry and how opting for this new innovative refreshing concept of donating would completely change the way charities work.
-![hemp] (https://www.realhemp.com/wp-content/uploads/2014/08/hemp-chart.png)
+![hemp](https://www.realhemp.com/wp-content/uploads/2014/08/hemp-chart.png)
 
 ### My Target Auidence?
 
